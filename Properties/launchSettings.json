@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XlsxToCSV": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\B2B\\Faktury\\2022.02\\Zestawienie operacji - Copy.xlsx\""
+    }
+  }
+}
